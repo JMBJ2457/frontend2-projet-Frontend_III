@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/JMBJ2457/frontend2-projet-frontend_iii/compare/v1.0.4...v1.0.5) (2026-03-23)
+
+
+### Bug Fixes
+
+* Dockerfile sencillo para conseguir primera imagen ([33d2d06](https://github.com/JMBJ2457/frontend2-projet-frontend_iii/commit/33d2d06cd953dcd1ff289ac0278098fcc86ec1e5))
+
 ## [1.0.4](https://github.com/JMBJ2457/frontend2-projet-frontend_iii/compare/v1.0.3...v1.0.4) (2026-03-23)
 
 
