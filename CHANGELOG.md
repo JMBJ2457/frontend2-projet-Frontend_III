@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/JMBJ2457/frontend2-projet-frontend_iii/compare/v1.0.2...v1.0.3) (2026-03-23)
+
+
+### Bug Fixes
+
+* Creación del Dockerfile ([9534469](https://github.com/JMBJ2457/frontend2-projet-frontend_iii/commit/9534469f388053539c3aa7a509408b941522c216))
+
 ## [1.0.2](https://github.com/JMBJ2457/frontend2-projet-frontend_iii/compare/v1.0.1...v1.0.2) (2026-03-23)
 
 
