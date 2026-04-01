@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/JMBJ2457/frontend2-projet-frontend_iii/compare/v1.0.5...v1.1.0) (2026-04-01)
+
+
+### Features
+
+* corrección al README.md ([82bb386](https://github.com/JMBJ2457/frontend2-projet-frontend_iii/commit/82bb386df30f4a66512273e36778c2a69fb7a780))
+
+
+### Bug Fixes
+
+* prettier corregido ([f3a83b9](https://github.com/JMBJ2457/frontend2-projet-frontend_iii/commit/f3a83b98b70a61e1ed295d51d5393f50a9bcddf6))
+
 ## [1.0.5](https://github.com/JMBJ2457/frontend2-projet-frontend_iii/compare/v1.0.4...v1.0.5) (2026-03-23)
 
 
